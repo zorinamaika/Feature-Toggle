@@ -1,0 +1,9 @@
+A library for a collection of features
+
+functions:
+- addFeatureToggle	
+- getFeatureToggle
+- updateFeatureToggle
+- feature collections
+
+also included are the junit tests for the functions
